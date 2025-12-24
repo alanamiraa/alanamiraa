@@ -1,11 +1,10 @@
-# 👩‍💻 Alana Mira
 
 Engenheira Florestal em transição de carreira para a área de tecnologia, com foco em **Desenvolvimento Front-end**.  
 Atualmente estou em formação, desenvolvendo projetos práticos para consolidar meus conhecimentos e evoluir continuamente.
 
 ---
 
-## 🚀 Sobre mim
+## Sobre mim
 
 - 🎓 Formação em Engenharia Florestal  
 - 💻 Estudante de Desenvolvimento Front-end  
@@ -15,7 +14,7 @@ Atualmente estou em formação, desenvolvendo projetos práticos para consolidar
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## Tecnologias e Ferramentas
 
 - HTML5  
 - CSS3  
@@ -26,7 +25,7 @@ Atualmente estou em formação, desenvolvendo projetos práticos para consolidar
 
 ---
 
-## 📂 Projetos
+## Projetos
 
 Aqui você encontrará projetos desenvolvidos durante meus estudos, com foco em:
 - Interfaces responsivas  
@@ -38,10 +37,11 @@ Aqui você encontrará projetos desenvolvidos durante meus estudos, com foco em:
 
 ---
 
-## 📫 Contato
+## Contato
 
 - LinkedIn: https://www.linkedin.com/in/alana-mira-9281241bb/  
 - GitHub: [github.com/alanamiraa](https://github.com/alanamiraa)
+- e-mail: alanagabrielams@gmail.com
 
 ---
 
